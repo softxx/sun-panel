@@ -116,9 +116,9 @@ function handleChangeLanuage(value: Language) {
           </NButton>
         </div> -->
 
-        <div class="flex justify-center text-slate-300">
+        <!-- <div class="flex justify-center text-slate-300">
           Powered By <a href="https://github.com/hslr-s/sun-panel" target="_blank" class="ml-[5px] text-slate-500">Sun-Panel</a>
-        </div>
+        </div> -->
       </NForm>
     </NCard>
   </div>
